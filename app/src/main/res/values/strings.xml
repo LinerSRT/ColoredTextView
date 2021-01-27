@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ColoredTextView</string>
+    <string name="red_text">Im bold {c=#FF0000, t=red} text!</string>
+    <string name="green_text">Im italic {c=#00FF00, t=green} text!</string>
+    <string name="blue_text">Im italic and bold {c=#0000FF, t=blue} text!</string>
+    <string name="rainbow_text">Im {c=#ff0000, t=r}{c=#ffa500, t=a}{c=#ffff00, t=i}{c=#008000, t=n}{c=#0000ff, t=b}{c=#4b0082, t=o}{c=#ee82ee, t=w} text</string>
+</resources>
