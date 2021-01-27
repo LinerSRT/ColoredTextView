@@ -2,7 +2,7 @@
 <img src="https://avatars.githubusercontent.com/u/14914307?s=460&u=449bf10288f142cc2dfaa6a2fe8ea1901e3b9d01&v=4" height="100">
 
 # ColoredTextView
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/27abcb9584c64e289cafa8fb7a3d0f20)](https://www.codacy.com/manual/LinerSRT/PreferenceManager?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LinerSRT/PreferenceManager&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fa95d66fb34c40959532cd991aefe47c)](https://www.codacy.com/gh/LinerSRT/ColoredTextView/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=LinerSRT/ColoredTextView&amp;utm_campaign=Badge_Grade)
 [![API](https://img.shields.io/badge/API-14%2B-blue.svg?style=flat)](https://android-arsenal.com/api?level=14)
 
 This project can help you if you want display text in android with different colors in single view
